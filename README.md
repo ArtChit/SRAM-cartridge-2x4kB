@@ -2,7 +2,7 @@
 
 A MSX SRAM cartridge with battery backup. Compatible with Sony HBI-55 and Yamaha UDC-01 4kB cartridges (details: https://map.grauw.nl/resources/hbi55.php). Tested with Yamaha SFG-05 firmware. Based on i82C55A PPI and 8kB SRAM. Manual switching of lower/higher 4kB ("2-in-1").
 
-#BOM:
+BOM:
 - U1: 82C55A (PPI)
 - U2: GoldStar GM76C88AL, Utron UT6264B (8K x 8 Low Power CMOS SRAM)
 - U3: 74LS138 (3-to-8 Decoder)

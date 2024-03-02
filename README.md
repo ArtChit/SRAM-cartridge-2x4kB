@@ -4,7 +4,7 @@ A MSX SRAM cartridge with battery backup. Compatible with Sony HBI-55 and Yamaha
 
 BOM:
 - U1: 82C55A (PPI)
-- U2: GoldStar GM76C88AL (8K x 8 Low Power CMOS SRAM)
+- U2: GoldStar/LG GM76C88AL-15 (8K x 8 Low Power CMOS SRAM, 150 ns)
 - U3: 74LS138 (3-to-8 Decoder)
 - U4: 74LS32 (OR gates)
 - U5: 74LS04 (NOT gates)
@@ -15,9 +15,8 @@ BOM:
 - Q2, Q3: 2N2222A (NPN BJT)
 - D1: 11DQ04 (Schottky diode)
 - BT1: CR2032 Battery Holder
-- R1, R5, R6, R7, R9: 10k
+- R1, R5, R6, R9: 10k
 - R2: 6.8k
 - R3: 39k
 - R4, R8, R10: 22k
-- JP1: jumper (if SRAM CS2 signal is required)
 - SW1: SPDT

@@ -8,9 +8,8 @@ BOM:
 - U3: 74LS138 (3-to-8 Decoder)
 - U4: 74LS32 (OR gates)
 - U5: 74LS04 (NOT gates)
-- U6: 74LS08 (AND gates)
 - C1: 10uF/20V
-- C2, C3, C4, C5: 100nF
+- C2, C3, C4, C5, C6: 100nF
 - Q1: 2N2907 (PNP BJT)
 - Q2, Q3: 2N2222A (NPN BJT)
 - D1: 11DQ04 (Schottky diode)
@@ -19,4 +18,5 @@ BOM:
 - R2: 6.8k
 - R3: 39k
 - R4, R8, R10: 22k
+- R7, R11: 1.8k
 - SW1: SPDT

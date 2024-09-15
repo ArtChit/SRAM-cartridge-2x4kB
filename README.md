@@ -8,7 +8,7 @@ BOM:
 - U3: 74LS138 (3-to-8 Decoder)
 - U4: 74LS32 (OR gates)
 - U5: 74LS04 (NOT gates)
-- C1: 10uF/20V
+- C1: 10uF/16V
 - C2, C3, C4, C5, C6: 100nF
 - Q1: 2N2907 (PNP BJT)
 - Q2, Q3: 2N2222A (NPN BJT)

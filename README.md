@@ -4,7 +4,7 @@ A MSX SRAM cartridge with battery backup. Compatible with Sony HBI-55 and Yamaha
 
 BOM:
 - U1: 82C55A (PPI)
-- U2: GoldStar/LG GM76C88AL-15 (8K x 8 Low Power CMOS SRAM, **150*** ns)
+- U2: GoldStar/LG GM76C88AL-15 (8K x 8 Low Power CMOS SRAM, **150** ns)
 - U3: 74LS138 (3-to-8 Decoder)
 - U4: 74LS32 (OR gates)
 - U5: 74LS04 (NOT gates)
@@ -21,4 +21,4 @@ BOM:
 - R7, R11: 1.8k
 - SW1: SPDT
   
-* faster SRAM (e.g. UT6264B, 70 ns) works normally with relatively slow BASIC I/O commands but has strange issue while working with FM Voicing Program II (YRM-502) probably due strict timings in software.
+A faster SRAM (e.g. UT6264B, 70 ns) works normally with relatively slow BASIC I/O commands but has strange issue while working with FM Voicing Program II (YRM-502) probably due strict timings in software.

@@ -21,4 +21,4 @@ BOM:
 - R7, R11: 1.8k
 - SW1: SPDT
   
-A faster SRAM (e.g. UT6264B, 70 ns) works normally with relatively slow BASIC I/O commands but has a strange issue while working with FM Voicing Program II (YRM-502) probably due strict timings in software.
+A faster SRAM (e.g. UT6264B, 70 ns) works normally with relatively slow BASIC I/O commands but has a strange issue while working with FM Voicing Program II (YRM-502) probably due strict timings in the software.

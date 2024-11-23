@@ -23,3 +23,4 @@ BOM:
 - SW1: SPDT
   
 A faster SRAM (e.g. UT6264B, 70 ns) works normally with relatively slow BASIC I/O commands but has a strange issue while working with SFG-05 software probably due strict timings.
+![Schematics](/sch.png "Schematics")
